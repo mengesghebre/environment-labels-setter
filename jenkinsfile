@@ -1,6 +1,6 @@
 @Library('jenkins-shared-libraries') _
 
-netCloudHilscherAllProjects(project_name : "gatewaymonitoring:1.0.0-menges-01-arm32v7",                                
+netCloudHilscherAllProjects(project_name : "netfield-app-edge-monitor-cockpit-plugin",                                
                             notificationChannelCredentialsId : 'teams-build-notifications-gwt',
                             frontend_tab : "netfield-app-edge-monitor-test",
                             port_number : 5000)
