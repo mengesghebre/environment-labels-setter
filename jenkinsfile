@@ -3,4 +3,4 @@
 netCloudHilscherAllProjects(project_name : "netfield-app-edge-monitor-cockpit-plugin",                                
                             notificationChannelCredentialsId : 'teams-build-notifications-gwt',
                             frontend_tab : "netfield-app-edge-monitor-test",
-                            port_number : 5000)
+                            port_number : 5000, env : env)
